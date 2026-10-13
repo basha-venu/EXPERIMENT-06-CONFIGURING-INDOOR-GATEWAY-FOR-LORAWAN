@@ -1,6 +1,6 @@
 # EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
-## Name: Aravindan T
-## Reg no: 2305001003
+## Name: BASHA VENU
+## Reg no: 2305001005
 ## Aim: 
 
 To  configure  Dragino LPS8 Indoor LoRaWAN gateway for things  network .
